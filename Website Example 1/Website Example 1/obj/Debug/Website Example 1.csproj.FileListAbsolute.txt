@@ -1,0 +1,6 @@
+c:\users\anu\documents\visual studio 2012\Projects\Website Example 1\Website Example 1\bin\Website Example 1.dll
+c:\users\anu\documents\visual studio 2012\Projects\Website Example 1\Website Example 1\bin\Website Example 1.pdb
+c:\users\anu\documents\visual studio 2012\Projects\Website Example 1\Website Example 1\obj\Debug\Website Example 1.csprojResolveAssemblyReference.cache
+c:\users\anu\documents\visual studio 2012\Projects\Website Example 1\Website Example 1\obj\Debug\Website Example 1.dll
+c:\users\anu\documents\visual studio 2012\Projects\Website Example 1\Website Example 1\obj\Debug\Website Example 1.pdb
+C:\Users\Anu\Documents\Visual Studio 2012\Projects\Website Example 1\Website Example 1\bin\Website Example 1.dll.config
